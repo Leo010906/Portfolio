@@ -41,13 +41,13 @@ src/
 ### 1️⃣ Clonar o Repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Leo010906/Portfolio.git
 ```
 
 ### 2️⃣ Entrar na Pasta do Projeto
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd portfolio
 ```
 
 ### 3️⃣ Instalar as Dependências
@@ -67,45 +67,11 @@ O projeto ficará disponível em:
 
 ---
 
-## 🚀 Como Enviar para o GitHub (Primeiro Push)
-
-Caso o repositório **já exista no GitHub**, execute os comandos abaixo dentro da pasta do projeto:
-
-```bash
-# Inicializar repositório local
-git init
-
-# Adicionar todos os arquivos
-git add .
-
-# Criar o primeiro commit
-git commit -m "feat: primeira versão do portfólio em React"
-
-# Conectar ao repositório remoto (troque pelo seu link)
-git remote add origin https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-
-# Definir a branch principal
-git branch -M main
-
-# Enviar para o GitHub
-git push -u origin main
-```
----
-
-✅ **Como salvar no VS Code**
-
-1. Abra o VS Code.
-2. Vá até a raiz do seu projeto.
-3. Crie um novo arquivo chamado **`README.md`**.
-4. Cole todo esse conteúdo.
-5. Salve (`Ctrl + S`).
-
----
 
 ## 🌍 Deploy
 
 O site foi publicado na **[Vercel](https://vercel.com/)**.
-🔗 **Link do projeto online:** [https://SEU-USUARIO.vercel.app](https://SEU-USUARIO.vercel.app)
+🔗 **Link do projeto online:** [portfolio-black-two-wkzgqwdrtf.vercel.app](portfolio-black-two-wkzgqwdrtf.vercel.app)
 
 ---
 
@@ -120,9 +86,9 @@ O site foi publicado na **[Vercel](https://vercel.com/)**.
 ---
 
 
----
+🧠 *Desenvolvido por:*
 
-🧠 *Projeto desenvolvido com foco em aprendizado e prática dos fundamentos de React.*
+- Leandro Simoneli da Silva - RM 566539
 
 ---
 
