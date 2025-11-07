@@ -71,7 +71,7 @@ O projeto ficará disponível em:
 ## 🌍 Deploy
 
 O site foi publicado na **[Vercel](https://vercel.com/)**.
-🔗 **Link do projeto online:** [portfolio-black-two-wkzgqwdrtf.vercel.app](portfolio-black-two-wkzgqwdrtf.vercel.app)
+🔗 **Link do projeto online:** [portfolio-black-two-wkzgqwdrtf.vercel.app](https://portfolio-black-two-wkzgqwdrtf.vercel.app/)
 
 ---
 
